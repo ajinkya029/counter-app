@@ -45,7 +45,7 @@ counter-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/counter-app.git
+git clone https://github.com/ajinkya029/counter-app.git
 ```
 
 ### 2. Navigate to the project
